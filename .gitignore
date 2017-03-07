@@ -1,0 +1,6 @@
+.DS_Store
+thumbs.db
+npm-debug.log
+logs/*
+node_modules/
+*.sqlite3
